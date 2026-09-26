@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #a53860;
+}
+
+.card {
+    background-color: #ffc2d1;
+}

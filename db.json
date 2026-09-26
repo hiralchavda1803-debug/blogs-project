@@ -1,0 +1,74 @@
+{
+    "blogs": [
+        {
+            "title": "Introduction to JavaScript",
+            "author": "Hiral Chavda",
+            "img": "https://images.unsplash.com/photo-1627398242454-45a1465c2479",
+            "description": "Learn the basics of JavaScript and how it makes websites interactive.",
+            "date": "2026-09-01"
+        },
+        {
+            "title": "Getting Started with React",
+            "author": "Rahul Patel",
+            "img": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
+            "description": "React is a popular JavaScript library used to build modern user interfaces.",
+            "date": "2026-09-02"
+        },
+        {
+            "title": "HTML5 for Beginners",
+            "author": "Priya Shah",
+            "img": "https://images.unsplash.com/photo-1621839673705-6617adf9e890",
+            "description": "Understand HTML5 elements and learn how to create the structure of a webpage.",
+            "date": "2026-09-03"
+        },
+        {
+            "title": "CSS Modern Techniques",
+            "author": "Amit Patel",
+            "img": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2",
+            "description": "Explore modern CSS techniques like Flexbox, Grid, animations and responsive design.",
+            "date": "2026-09-04"
+        },
+        {
+            "title": "Understanding APIs",
+            "author": "Neha Joshi",
+            "img": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31",
+            "description": "Learn what APIs are and how frontend applications communicate with backend services.",
+            "date": "2026-09-05"
+        },
+        {
+            "title": "Introduction to Node.js",
+            "author": "Jay Mehta",
+            "img": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+            "description": "Node.js allows developers to run JavaScript on the server and build backend applications.",
+            "date": "2026-09-06"
+        },
+        {
+            "title": "MongoDB Basics",
+            "author": "Karan Patel",
+            "img": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d",
+            "description": "MongoDB is a NoSQL database used to store data in flexible document-based structures.",
+            "date": "2026-09-07"
+        },
+        {
+            "title": "Git and GitHub Guide",
+            "author": "Pooja Desai",
+            "img": "https://images.unsplash.com/photo-1556075798-4825dfaaf498",
+            "description": "Learn how Git and GitHub help developers manage and collaborate on source code.",
+            "date": "2026-09-08"
+        },
+        {
+            "title": "What is Full Stack Development?",
+            "author": "Hiral Chavda",
+            "img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+            "description": "Full stack development involves working with both frontend and backend technologies.",
+            "date": "2026-09-09"
+        },
+        {
+            "title": "Artificial Intelligence in Web Development",
+            "author": "Riya Patel",
+            "img": "https://images.unsplash.com/photo-1677442136019-21780ecad995",
+            "description": "Discover how artificial intelligence is changing modern web development.",
+            "date": "2026-09-10"
+        }
+    ]
+}
