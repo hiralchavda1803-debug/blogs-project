@@ -2,7 +2,7 @@
   "blogs": [
     {
       "title": "Getting Started with React",
-      "author": "Rahul ",
+      "author": "Rahul",
       "description": "React is a popular JavaScript library used to build modern user interfaces.",
       "img": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
       "date": "2026-09-02",
@@ -72,6 +72,5 @@
       "date": "2026-09-10",
       "id": "XJ6b3S9GjVk"
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
