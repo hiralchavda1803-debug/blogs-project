@@ -1,17 +1,92 @@
-# React + Vite
+# 📝 Tech Blog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Tech Blog CRUD Application** built using **React.js, Bootstrap, CSS and JSON Server**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Project Overview
 
-## React Compiler
+**Tech Blog** is a React-based CRUD application where users can create, read, update and delete blog posts.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The project uses **JSON Server** as a simple backend API for storing and managing blog data.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# blogs-project" 
+## 🛠️ Technologies Used
+
+- ⚛️ **React.js**
+- 🟨 **JavaScript**
+- 🟦 **Bootstrap**
+- 🎨 **CSS3**
+- 🗄️ **JSON Server**
+- 🌐 **REST API**
+- 📦 **npm**
+- ⚡ **Vite**
+
+---
+
+## ✨ Features
+
+### 📖 Read Blogs
+
+- Fetches all blogs from JSON Server.
+- Displays blogs in responsive Bootstrap cards.
+- Shows blog image, title, author, description and date.
+
+### ➕ Add Blog
+
+Users can add a new blog using the form.
+
+The form contains:
+
+- 📝 Title
+- 👤 Author
+- 🖼️ Image URL
+- 📅 Date
+- 📄 Description
+
+### ✏️ Update Blog
+
+- Click the **Update** button.
+- Existing blog data is loaded into the form.
+- Edit the required information.
+- Click **Update Blog** to save changes.
+
+### 🗑️ Delete Blog
+
+- Click the **Delete** button.
+- The selected blog is removed from JSON Server.
+- The blog is also removed from the UI.
+
+### 🎨 Responsive Design
+
+- 📱 Mobile responsive
+- 💻 Desktop responsive
+- 🃏 Bootstrap cards
+- ✨ Card hover effect
+- 🎨 Custom CSS styling
+
+---
+
+## 📂 Project Structure
+
+📁 src
+
+    ⚛️ App.jsx
+
+    🎨 App.css
+
+    📄 main.jsx
+
+
+📁 db.json
+
+
+## 🖼️ Images
+
+![img1](images/ss-1.png)
+![img2](images/ss-2.png)
+
+
+## 📷 video
+

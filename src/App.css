@@ -5,9 +5,51 @@
 }
 
 body {
-    background-color: #a53860;
+    background-color: #5f0f40;
+}
+
+h1 {
+    color: #f5ebe0;
+    font-weight: 700;
+}
+
+.form {
+    color: #0f4c5c;
+    font-weight: 700;
 }
 
 .card {
-    background-color: #ffc2d1;
+    border: none;
+    border-radius: 12px;
+    overflow: hidden;
+    background-color: #fff0f6;
+    transition: 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(30, 58, 138, 0.20) !important;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card h4 {
+    color: #1e3a8a;
+    font-weight: 600;
+}
+
+.card h6 {
+    color: #2563eb;
+    font-weight: 500;
+}
+
+.card p {
+    color: #475569;
+}
+
+.card p:last-child {
+    color: #64748b;
+    font-weight: 500;
 }
