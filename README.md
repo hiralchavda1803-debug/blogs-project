@@ -82,10 +82,13 @@ The form contains:
 📁 db.json
 
 
+
+
 ## 🖼️ Images
 
-![img1](images/ss-1.png)
-![img2](images/ss-2.png)
+![Tech Blog Screenshot 1](src/assets/ss-1.png)
+
+![Tech Blog Screenshot 2](src/assets/ss-2.png)
 
 
 ## 📷 video
